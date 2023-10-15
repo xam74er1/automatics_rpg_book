@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/automatics_rpg_book/static/css/main.57788c48.css",
+    "main.js": "/automatics_rpg_book/static/js/main.3c7182c8.js",
+    "static/js/787.7a907f06.chunk.js": "/automatics_rpg_book/static/js/787.7a907f06.chunk.js",
+    "static/media/textured-paper.png": "/automatics_rpg_book/static/media/textured-paper.2e58282350a06f65e011.png",
+    "index.html": "/automatics_rpg_book/index.html",
+    "main.57788c48.css.map": "/automatics_rpg_book/static/css/main.57788c48.css.map",
+    "main.3c7182c8.js.map": "/automatics_rpg_book/static/js/main.3c7182c8.js.map",
+    "787.7a907f06.chunk.js.map": "/automatics_rpg_book/static/js/787.7a907f06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57788c48.css",
+    "static/js/main.3c7182c8.js"
+  ]
+}
