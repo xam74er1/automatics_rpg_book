@@ -1,38 +1,63 @@
-.App {
-  text-align: center;
+/* In your App.css file */
+
+.main-container {
+  max-width: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #c4b26a;
+  background-image: url("../public/textured-paper.png");
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.comic-panel {
+  width: 100%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.row {
   display: flex;
-  flex-direction: column;
+  width: 100%;
+}
+
+.panel {
+  flex: 1;
+  display: flex;
+  flex-direction: column-reverse;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: flex-start; /* Move caption to the top */
+  border: 4px solid #000; /* Thicker border */
+  margin: 5px;
+  position: relative;
+  font-family: "Comic Sans MS", cursive; /* Comic-like font */
 }
 
-.App-link {
-  color: #61dafb;
+.ratio1 {
+  flex: 45%;
+  border-top-left-radius: 255px 15px;
+  border-top-right-radius: 15px 225px;
+  border-bottom-right-radius: 225px 15px;
+  border-bottom-left-radius:15px 255px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.ratio2 {
+  flex: 55%;
+  border-top-left-radius: 15px 225px;
+  border-top-right-radius: 225px 15px;
+  border-bottom-right-radius: 15px 225px;
+  border-bottom-left-radius:225px 15px;
+}
+
+.panel-image {
+  width: 100%;
+  height: 100%;
+}
+
+.caption {
+  text-align: center;
+  padding: 5px;
+  width: 100%;
+  border-bottom-style: solid;
+  border-top-left-radius: 15px 225px;
+  border-top-right-radius: 225px 15px;
+  border-bottom-right-radius: 15px 225px;
+  border-bottom-left-radius:225px 15px;
 }
