@@ -43,18 +43,29 @@ function MainContainer() {
         }
     };
 
+    function firstPage(){
+        console.log(flippedPages)
+        return  <div className={`page ${flippedPages.has(2)? 'flipped' : ''}`}
+                     onClick={() => handlePageClick(2)}
+                     style={{ zIndex: (2*(pages.length))+1}} key={0} >
+            <div>
+               <p className="title"> Un nouveaux monde</p>
+            </div>
+        </div>
+    }
+
     function getAllPanel(){
-        let allPanek=[]
-        let counter = 0
+        let allPanek=[firstPage()]
+        let counter = 1
         for (let page_number = 0; page_number < pages.length; page_number++) {
             let curent_page = pages[page_number]
             // @ts-ignore
             for (let panelIndex = 0; panelIndex < curent_page.length; panelIndex++) {
                 counter +=1
                 let p_couter = counter
-                let zIndexValue = p_couter % 2 === 1 ?(4*pages.length)-counter : 'auto';
+                let zIndexValue = p_couter % 2 === 1 ?(2*(pages.length+1))-counter : 'auto';
                 // @ts-ignore
-                let caption = curent_page[panelIndex].original_phrase
+                let caption = panelIndex == 0 ? curent_page[panelIndex].orignal_phrase : curent_page[panelIndex].caption
                 let panel = <Page
                         key={counter}
                         captions={caption}

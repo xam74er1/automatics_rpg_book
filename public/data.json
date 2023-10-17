@@ -1,300 +1,367 @@
 [[
   {
-    "panel": 1,
-    "painting_style": "Stained Glass",
-    "painting_instructions": "Create a vibrant and intricate stained glass window depicting a majestic ship sailing through a stormy sea. Use a palette of blues and greens to convey a sense of turbulence and danger. Incorporate delicate, swirling patterns to give the impression of movement and energy.",
-    "caption": "A noble's final voyage ends in Valenhall",
-    "original_phrase": "The ship sails through the tempestuous sea, its passengers unaware of the fate that awaits them."
-  },
+    "painting_instructions": "Create a stained glass-style panel featuring the main character, a young woman with long, flowing silver hair and piercing blue eyes, standing atop a hill overlooking the colony of Valenhall. Intricate patterns and vibrant colors should be used to depict the character's robes and the surrounding landscape. Consider using references to Norse mythology and the Linnorm Kings to add depth and meaning to the artwork.",
+    "caption": "The young queen stands tall, surveying her new colony with a fierce determination in her eyes."
+  ,"orignal_phrase":"The 473rd Company of the Earthlings of the Linnorm Kings colonizes the north of Arcadia and founds Valenhall."},
   {
-    "panel": 2,
-    "painting_style": "Medieval Tapestry",
-    "painting_instructions": "Create a grand and intricate tapestry depicting a bustling harbor filled with ships from all corners of the Land of the Kings of Linnorm. Use a palette of earthy tones to convey a sense of warmth and community. Incorporate detailed, textured patterns to give the impression of age and history. ",
-    "caption": "The harbor of Valenhall bustles with activity",
-    "original_phrase": "The harbor of Valenhall is a hub of activity, as nobles from all corners of the Land of the Kings of Linnorm gather to pay their respects."
-  },
-  {
-    "panel": 3,
-    "painting_style": "Illuminated Manuscript",
-    "painting_instructions": "Create an intricate and detailed illuminated manuscript page depicting a group of nobles gathered around a tomb. Use a palette of muted colors to convey a sense of somberness and reverence. Incorporate delicate, gilded details to give the impression of luxury and opulence. ",
-    "caption": "The nobles pay their respects to the dead",
-    "original_phrase": "The nobles gather around the tomb of a fallen king, paying their final respects."
-  },
-  {
-    "panel": 4,
-    "painting_style": "Miniature Painting",
-    "painting_instructions": "Create a small but intricate painting depicting a single noble standing atop a cliff, gazing out at the sea. Use a palette of muted colors to convey a sense of introspection and contemplation. Incorporate delicate, swirling patterns to give the impression of movement and energy. ",
-    "caption": "A noble contemplates their final journey",
-    "original_phrase": "A lone noble stands atop a cliff, gazing out at the endless sea, contemplating their final journey."
-  }
+    "painting_instructions": "Create a panel featuring a bustling marketplace in the heart of Valenhall. Use vibrant colors and intricate patterns to depict the various stalls and shops, each one selling unique goods from across the galaxy. Consider adding elements of Norse mythology and the Linnorm Kings to the artwork, such as a dragon-shaped kite flying overhead or a stall selling Thor's hammer-shaped cookies.",
+    "caption": "The marketplace of Valenhall bustles with activity, as colonists from across the galaxy come to trade and share their wares."
+  ,"orignal_phrase":"The 473rd Company of the Earthlings of the Linnorm Kings colonizes the north of Arcadia and founds Valenhall."}
 ]
 ,[
   {
-    "panel": 1,
-    "painting_style": "Victorian-era stained glass",
-    "painting_instructions": "Create a stained glass window-style artwork depicting a group of young adventurers gathered around a campfire, deep in the woods. Intricate patterns and vibrant colors should be used to convey a sense of mystery and wonder. The lighting should be dim, with a warm glow emanating from the fire. Include a few silhouetted trees in the background to add depth and atmosphere to the scene.",
-    "caption": "The Absalom Scout Society is founded under the light of a flickering campfire.",
-    "original_phrase": "The Absalom Scout Society was founded in the heart of the Whispering Woods, where the light of a flickering campfire illuminated the faces of the young adventurers gathered around."
-  },
+    "painting_instructions": "Use vibrant colors and intricate patterns to create a stained glass-style artwork depicting the island's lush vegetation and crystal-clear waters. Incorporate the use of light and shadow to create depth and dimension. Focus on capturing the island's unique atmosphere and the sense of mystery that surrounds it.",
+    "caption": "The island of the final voyage, where the great lords of the lands of the Kings of Linnorm come to rest."
+  ,"orignal_phrase":"It is a place where the great lords of the lands of the Kings of Linnorm come to die after embarking on a final voyage, island-hopping across the northern reaches of the Arcadian Ocean."},
   {
-    "panel": 2,
-    "painting_style": "Art Nouveau stained glass",
-    "painting_instructions": "Create a stained glass artwork depicting a grand, ornate building with intricate stone carvings and stained glass windows. The scene should be set in a fantasy world with a medieval-inspired architecture. Use vibrant colors and intricate patterns to convey a sense of opulence and grandeur. The lighting should be soft and warm, with a subtle glow emanating from the stained glass windows.",
-    "caption": "The Absalom Scout Society's headquarters, a grand and ornate building.",
-    "original_phrase": "The Absalom Scout Society's headquarters was a grand and ornate building, with intricate stone carvings and stained glass windows that seemed to shimmer in the light."
-  },
-  {
-    "panel": 3,
-    "painting_style": "Moorish-inspired stained glass",
-    "painting_instructions": "Create a stained glass artwork depicting a bustling marketplace filled with exotic goods and colorful textiles. The scene should be set in a fantasy world with a Moorish-inspired architecture. Use intricate patterns and vibrant colors to convey a sense of energy and excitement. The lighting should be bright and warm, with a few strategically placed shadows to add depth and atmosphere to the scene.",
-    "caption": "The Absalom Scout Society's marketplace, a bustling hub of commerce and culture.",
-    "original_phrase": "The Absalom Scout Society's marketplace was a bustling hub of commerce and culture, filled with exotic goods and colorful textiles from all corners of the fantasy world."
-  },
-  {
-    "panel": 4,
-    "painting_style": "Art Deco stained glass",
-    "painting_instructions": "Create a stained glass artwork depicting a group of adventurers standing atop a towering mountain, gazing out at a breathtaking sunset. The scene should be set in a fantasy world with a modern-inspired architecture. Use bold colors and geometric patterns to convey a sense of grandeur and awe. The lighting should be dramatic, with a bright glow emanating from the sunset and a few strategically placed shadows to add depth and atmosphere to the scene.",
-    "caption": "The Absalom Scout Society's highest peak, a breathtaking vantage point for adventurers.",
-    "original_phrase": "The Absalom Scout Society's highest peak was a breathtaking vantage point for adventurers, offering a panoramic view of the fantasy world below."
-  }
+    "painting_instructions": "Create a detailed and intricate artwork featuring the island's rugged coastline, with towering cliffs and rocky outcroppings. Use a muted color palette to convey a sense of isolation and desolation, and incorporate subtle textures to suggest the harsh weather conditions of the island. Focus on capturing the island's rugged beauty and the sense of foreboding that pervades it.",
+    "caption": "The rugged coastline of the island, where the great lords of the lands of the Kings of Linnorm come to rest."
+  ,"orignal_phrase":"It is a place where the great lords of the lands of the Kings of Linnorm come to die after embarking on a final voyage, island-hopping across the northern reaches of the Arcadian Ocean."}
 ]
 ,[
   {
-    "panel": 1,
-    "painting_style": "Medieval Stained Glass",
-    "painting_instructions": "Create a stained glass window depicting the city of Arodus in the aftermath of the Andorran Revolution. Intricate patterns and vibrant colors should be used to convey a sense of hope and renewal. The scene should be illuminated by a warm, golden light, with the city's buildings and streets bathed in a soft, ethereal glow.",
-    "caption": "Arodus, reborn from the ashes of revolution.",
-    "original_phrase": "Arodus, city of hope and renewal"
-  },
+    "painting_instructions": "Create a stained glass-style panel featuring a group of warriors standing atop a rocky cliffside, overlooking a vast, stormy sea. Use vibrant colors and intricate patterns to bring the scene to life. Include a few subtle lightning strikes in the background to add drama and tension. For the warriors, focus on their facial expressions and body language, conveying a sense of determination and bravery. For the clothing, use a mix of historical and fantastical elements, such as chainmail, leather armor, and flowing capes. Include a few weapons and shields to add detail and depth to the scene.",
+    "caption": "The warriors stand tall, their eyes fixed on the horizon as they prepare to face the challenges of Valhalla."
+  ,"orignal_phrase":"Those who reach Valhalla believe they have reached their ultimate reward on another plane."},
   {
-    "panel": 2,
-    "painting_style": "Renaissance Stained Glass",
-    "painting_instructions": "Create a stained glass panel depicting a grand procession of Andorran revolutionaries through the streets of Arodus. Use intricate patterns and vibrant colors to capture the energy and excitement of the moment. The scene should be illuminated by a bright, sunlit light, with the procession's participants bathed in a warm, golden glow.",
-    "caption": "Andorran revolutionaries march through Arodus",
-    "original_phrase": "Andorran revolutionaries parade through Arodus"
-  },
-  {
-    "panel": 3,
-    "painting_style": "Art Nouveau Stained Glass",
-    "painting_instructions": "Create a stained glass panel depicting a group of Andorran revolutionaries gathered in a secret underground hideout. Use flowing, organic shapes and vibrant colors to convey a sense of secrecy and intrigue. The scene should be illuminated by a soft, muted light, with the revolutionaries bathed in a warm, golden glow.",
-    "caption": "Andorran revolutionaries gather in secret",
-    "original_phrase": "Andorran revolutionaries meet in secret"
-  },
-  {
-    "panel": 4,
-    "painting_style": "Moorish Stained Glass",
-    "painting_instructions": "Create a stained glass panel depicting a grand ceremony in which the people of Arodus celebrate their newfound freedom. Use intricate patterns and vibrant colors to capture the joy and jubilation of the moment. The scene should be illuminated by a warm, golden light, with the ceremony's participants bathed in a soft, ethereal glow.",
-    "caption": "Arodus celebrates its freedom",
-    "original_phrase": "Arodus celebrates its liberation"
-  }
+    "painting_instructions": "Create a second stained glass-style panel featuring a massive, ancient door with intricate carvings and symbols. The door is set against a dark, foreboding background, with a few faint lights flickering in the distance. Use a mix of light and shadow to create a sense of depth and mystery. For the carvings and symbols, draw inspiration from Norse mythology and use a mix of realistic and stylized elements to create a sense of otherworldliness. Include a few subtle details, such as a small inscription or a hidden compartment, to add depth and interest to the scene.",
+    "caption": "The door to Valhalla stands before the warriors, its secrets and mysteries waiting to be uncovered."
+  ,"orignal_phrase":"Those who reach Valhalla believe they have reached their ultimate reward on another plane."}
 ]
 ,[
   {
-    "panel": 1,
-    "painting_style": "Stained Glass",
-    "painting_instructions": "Create a vibrant and intricate stained glass artwork depicting the Segada Protocol being promulgated by the local nations. Use a palette of bright, bold colors and incorporate intricate patterns and designs to convey the sense of regulation and restriction. Include a Segada trooper standing guard at the entrance to the colony, and a group of Chelaxian colonizers gathered around a table, signing the agreement.",
-    "caption": "The Segada Protocol is promulgated, limiting Chelaxian colonization and exploitation of Arcadia.",
-    "original_phrase": "The local nations of Arcadia gather to regulate the Chelaxian colonization of their lands."
-  },
+    "painting_instructions": "Create a stained glass-style artwork featuring a group of scouts gathered around a campfire, with intricate patterns and vibrant colors. Use reference images of stained glass windows from the Gothic and Romanesque periods for inspiration. Emphasize the use of warm colors and bold brushstrokes to convey a sense of excitement and adventure.",
+    "caption": "The scouts of the Absalom Scout Society gather around a roaring campfire, their faces illuminated by the flickering flames and the stars above."
+  ,"orignal_phrase":"4307 CA Foundation of the Absalom Scout Society"},
   {
-    "panel": 2,
-    "painting_style": "Art Nouveau",
-    "painting_instructions": "Create an Art Nouveau-inspired artwork depicting the Avistani colonizers arriving on the Broyeuse Coast. Use flowing lines and organic shapes to convey the movement and energy of the waves, and incorporate intricate patterns and designs to represent the Avistani culture. Include a group of Avistani colonizers standing on the shore, looking out at the sea with a sense of wonder and excitement.",
-    "caption": "The Avistani colonizers arrive on the Broyeuse Coast, marking the beginning of their new chapter in Arcadia.",
-    "original_phrase": "The Avistani colonizers set foot on the shores of Arcadia, eager to explore their new home."
-  },
-  {
-    "panel": 3,
-    "painting_style": "Moorish Tilework",
-    "painting_instructions": "Create a Moorish-inspired artwork depicting the city of Degasi. Use a palette of warm, earthy tones and incorporate intricate tilework and patterns to represent the city's architecture. Include a group of Chelaxian colonizers walking through the city's bustling streets, surrounded by Segada troops and local residents. ",
-    "caption": "The city of Degasi is bustling with activity as Chelaxian colonizers and Segada troops coexist with local residents.",
-    "original_phrase": "The city of Degasi is a hub of activity, as Chelaxian colonizers and Segada troops work to establish a new order in Arcadia."
-  },
-  {
-    "panel": 4,
-    "painting_style": "Byzantine Mosaic",
-    "painting_instructions": "Create a Byzantine-inspired artwork depicting the Segada troops inspecting the Chelaxian colonies. Use a palette of rich, jewel-toned colors and incorporate intricate mosaic patterns to represent the Segada's attention to detail. Include a Segada trooper standing atop a hill, surveying the colony below with a sense of pride and authority.",
-    "caption": "Segada troops inspect the Chelaxian colonies, ensuring compliance with the Segada Protocol.",
-    "original_phrase": "The Segada troops conduct their regular inspections of the Chelaxian colonies, ensuring that the protocol is being upheld."
-  }
+    "painting_instructions": "Create a stained glass-style artwork depicting a bustling marketplace in the city of Absalom, with intricate patterns and vibrant colors. Use reference images of medieval marketplaces for inspiration. Emphasize the use of bold brushstrokes and vivid colors to convey a sense of energy and activity. Consider including a variety of stalls selling goods such as food, clothing, and weapons, as well as a diverse group of people from different backgrounds and cultures.",
+    "caption": "The bustling marketplace of Absalom comes alive with activity, as merchants and traders sell their wares to a diverse group of customers."
+  ,"orignal_phrase":"4307 CA Foundation of the Absalom Scout Society"}
 ]
 ,[
   {
-    "panel": 1,
-    "painting_style": "Stained Glass",
-    "painting_instructions": "Create a vibrant and intricate stained glass artwork depicting the abandoned Chillaxian colony of Canorus, with a focus on the colony's entrance and the tunnels leading beneath it. Incorporate bold, clashing colors and intricate patterns to evoke a sense of chaos and disarray. Consider using references to stained glass windows from medieval cathedrals to add a sense of historical and cultural context to the artwork.",
-    "caption": "The abandoned colony of Canorus, overrun by zombies and infested with dark energies.",
-    "original_phrase": "The once-thriving Chillaxian colony of Canorus lies in ruins, its entrance now a gaping maw of darkness and despair."
-  },
+    "painting_instructions": "Create a stained glass-style panel depicting a group of rebels huddled in a secret underground hideout, surrounded by intricate patterns and vibrant colors. Use a mix of warm and cool tones to create a sense of depth and atmosphere. Include a few subtle light sources to highlight the characters and add depth to the scene.",
+    "caption": "Rebels gather in secret hideout, planning their next move."
+  ,"orignal_phrase":"The Andorran Revolution ended in 1993."},
   {
-    "panel": 2,
-    "painting_style": "Mythic Realism",
-    "painting_instructions": "Create a detailed and realistic artwork depicting the Calignis and Telgrodradt forces invading Canorus. Incorporate a sense of scale and grandeur, with the two armies clashing in a dramatic and epic battle. Use references to classical mythology and historical warfare to add depth and context to the artwork.",
-    "caption": "Calignis and Telgrodradt clash in a battle for control of Canorus.",
-    "original_phrase": "The armies of Calignis and Telgrodradt collide in a frenzy of steel and magic, the fate of Canorus hanging in the balance."
-  },
-  {
-    "panel": 3,
-    "painting_style": "Gothic Horror",
-    "painting_instructions": "Create a dark and foreboding artwork depicting the mindless undead horde that now infests Canorus. Incorporate a sense of eeriness and unease, with the undead shambling through the colony's ruins. Use references to classic horror literature and film to add a sense of familiarity and menace to the artwork.",
-    "caption": "The mindless undead horde shambles through the ruins of Canorus, a reminder of the disaster that struck the colony.",
-    "original_phrase": "The undead stalk the ruins of Canorus, their unblinking eyes fixed on the living with a malevolent hunger."
-  },
-  {
-    "panel": 4,
-    "painting_style": "Fantasy Realism",
-    "painting_instructions": "Create a detailed and realistic artwork depicting the surviving villagers of Canorus making their way to the nearby colony of Anchor's End. Incorporate a sense of hope and resilience, with the villagers trudging through the wilderness with determination and purpose. Use references to fantasy art and literature to add a sense of wonder and adventure to the artwork.",
-    "caption": "The surviving villagers of Canorus make their way to the safety of Anchor's End, their spirits unbroken by the disaster that struck their home.",
-    "original_phrase": "The villagers of Canorus press on, their hearts filled with hope and determination as they seek refuge in the nearby colony of Anchor's End."
-  }
+    "painting_instructions": "Create a stained glass-style panel depicting a bustling street scene in the aftermath of the Andorran Revolution. Include a mix of modern and historical buildings, as well as a variety of characters from different walks of life. Use vibrant colors and intricate patterns to create a sense of energy and movement in the scene.",
+    "caption": "Citizens of Andorra celebrate their newfound freedom, unaware of the challenges ahead."
+  ,"orignal_phrase":"The Andorran Revolution ended in 1993."}
 ]
 ,[
   {
-    "panel": 1,
-    "painting_style": "Stained Glass",
-    "painting_instructions": "Create a vibrant and intricate mosaic depicting a bustling marketplace in the city of Cheliax. Incorporate bold colors and patterns to convey the sense of chaos and unrest. Use stained glass techniques to create a sense of depth and dimensionality.",
-    "caption": "The People's Uprising",
-    "original_phrase": "The streets of Cheliax are filled with the sounds of protest and dissent as the Corbel seek secession."
-  },
+    "painting_instructions": "Create a stained glass-style artwork featuring the carters (s) in the foreground, with intricate patterns and vibrant colors. Use a mix of warm and cool tones to create depth and contrast. Include detailed descriptions of each character's style, position, cloth, and objects. If there are multiple characters, provide a detailed description of each main character. If they are in the background, give a global description of the scene. ",
+    "caption": "The carters (s) land on the Broyeuse Coast, near the city of Degasi in Segada, as they begin their Chelaxian colonization expedition."
+  ,"orignal_phrase":"In the context of a Chelaxian colonization expedition, the Avistani colonists land on the Broyeuse Coast near the city of Degasi in Segada."},
   {
-    "panel": 2,
-    "painting_style": "Art Nouveau",
-    "painting_instructions": "Create a dreamlike illustration of a group of rebels huddled in a secret hideout. Use flowing lines and organic shapes to convey a sense of movement and fluidity. Incorporate subtle, muted colors to create a sense of mystery and intrigue.",
-    "caption": "The Hidden Struggle",
-    "original_phrase": "In the shadows of Isger, a group of rebels plot their next move against the oppressive regime."
-  },
-  {
-    "panel": 3,
-    "painting_style": "Gothic Revival",
-    "painting_instructions": "Create a haunting and atmospheric depiction of a dark, foreboding forest. Use bold, dramatic brushstrokes to convey a sense of unease and foreboding. Incorporate subtle, glowing details to suggest the presence of supernatural forces.",
-    "caption": "The Shadows of the Forest",
-    "original_phrase": "The forest of Isger is shrouded in darkness, as if the very trees themselves are alive and watching."
-  },
-  {
-    "panel": 4,
-    "painting_style": "Impressionism",
-    "painting_instructions": "Create a serene and peaceful depiction of a river landscape. Use soft, blended brushstrokes to convey a sense of calm and tranquility. Incorporate subtle, shimmering details to suggest the presence of light and life.",
-    "caption": "The River's Embrace",
-    "original_phrase": "The river of Isger flows gently, providing a sense of solace and escape from the turmoil of the outside world."
-  }
+    "painting_instructions": "Create a stained glass-style artwork depicting the scene in the background of the first panel. Include the city of Degasi in Segada, with its towering spires and grand architecture. Use a mix of warm and cool tones to create depth and contrast. Include details such as the sun setting over the horizon, casting a warm glow over the scene. If there are any notable features such as a river or mountain range, include them in the background. ",
+    "caption": "The city of Degasi in Segada rises into view as the carters (s) land on the Broyeuse Coast."
+  ,"orignal_phrase":"In the context of a Chelaxian colonization expedition, the Avistani colonists land on the Broyeuse Coast near the city of Degasi in Segada."}
 ]
 ,[
   {
-    "panel": 1,
-    "painting_style": "Stained Glass",
-    "painting_instructions": "Create a vibrant and intricate panel depicting the city of Absalom under attack by Tar-Baphon and his undead minions. Use a palette of bright, muted colors and incorporate intricate patterns and textures to give the artwork a stained glass-like quality. The scene should be illuminated by a fierce, pulsing light that suggests the supernatural nature of the attackers. Include several prominent buildings and landmarks in the city, such as the Cathedral of the Archfey and the Tower of the Arcane Eye, to give the scene a sense of scale and place.",
-    "caption": "Tar-Baphon unleashes his undead hordes upon the city of Absalom",
-    "original_phrase": "The city of Absalom, bathed in a sickly, pulsing light, is under siege by an army of undead horrors, their twisted forms writhing and contorting in the darkness."
-  },
+    "painting_instructions": "Create a stained glass-style artwork featuring a group of carters (s) in the foreground, with a mob of angry Arcadians in the background. Use vibrant colors and intricate patterns to bring out the details of the characters and the scene. Include a large, ornate building in the background, with flags and banners flying from its rooftop. Lighting should be dramatic, with a mix of bright and dark shadows to create depth and atmosphere. ",
+    "caption": "Carters and colonists clash in the streets of Segada, as the local nations enforce the Segada Protocol to limit the colonization of Arcadia."
+  ,"orignal_phrase":"Protocol of Segada Few days after the arrival of the Chelaxian colonists and a distinct band of Andoran colonists, the local nations promulgated the Segada Protocol to limit and strictly regulate the colonization and exploitation of Arcadia."},
   {
-    "panel": 2,
-    "painting_style": "Mythic Realism",
-    "painting_instructions": "Create a detailed and realistic panel depicting the members of the Scouts' Society preparing for battle against Tar-Baphon and his minions. Use a palette of muted, earthy colors and incorporate intricate textures and details to give the artwork a sense of depth and realism. The scene should be illuminated by a soft, diffuse light that suggests the early morning or late evening, and include several prominent characters from the Scouts' Society, such as Elara Moonwhisper and Arcturus Thorne, in the forefront of the battle. Incorporate several mythic creatures, such as dragons and griffins, into the background of the panel to give the scene a sense of scope and scale.",
-    "caption": "The Scouts' Society prepares to defend Absalom against Tar-Baphon's undead hordes",
-    "original_phrase": "The members of the Scouts' Society, armed with their weapons and armor, stand ready to defend the city of Absalom against the undead horde, their faces set with determination and their eyes fixed on the horizon."
-  },
+    "painting_instructions": "Create a stained glass-style artwork featuring a dramatic, sweeping view of the Segada landscape, with the carters and colonists in the foreground. Use vibrant colors and intricate patterns to bring out the details of the landscape and the characters. Include a range of textures, from rough stone to smooth glass, to create depth and atmosphere. Lighting should be dramatic, with a mix of bright and dark shadows to create depth and atmosphere. ",
+    "caption": "The Segada Protocol takes effect, as the local nations work to limit the colonization of Arcadia and protect their homeland from the encroaching colonists."
+  ,"orignal_phrase":"Protocol of Segada Few days after the arrival of the Chelaxian colonists and a distinct band of Andoran colonists, the local nations promulgated the Segada Protocol to limit and strictly regulate the colonization and exploitation of Arcadia."}
+],[
   {
-    "panel": 3,
-    "painting_style": "Symbolist Surrealism",
-    "painting_instructions": "Create a dreamlike and surreal panel depicting Tar-Baphon's rise to power and his transformation into a god. Use a palette of muted, pastel colors and incorporate abstract shapes and patterns to give the artwork a sense of otherworldliness. The scene should be illuminated by a soft, ethereal light that suggests the realm of the gods, and include several prominent symbols and motifs, such as the eye of the beholder and the spiral of ascension, to give the scene a sense of depth and meaning. Incorporate several mythic creatures, such as the phoenix and the dragon, into the background of the panel to give the scene a sense of scope and scale.",
-    "caption": "Tar-Baphon's transformation into a god",
-    "original_phrase": "Tar-Baphon, his form twisted and distorted, rises to the heavens, his eyes burning with an otherworldly fire as he becomes a god, his power and influence spreading across the land like a wildfire."
-  },
+    "painting_instructions": "Create a stained glass-style artwork featuring a group of carters standing on a rocky cliffside, overlooking a vast ocean. Intricate patterns and vibrant colors should be used to depict the carters' clothing, accessories, and the surrounding environment. The carters should be positioned in a dynamic pose, as if they are about to embark on a journey or are in the midst of a heated discussion. Include a few details in the background, such as a ship sailing in the distance or a few seagulls flying overhead, to add depth and context to the scene.",
+    "caption": "Carters on the Cliffside"
+  ,"orignal_phrase":"This protocol stipulates that the Avistani colonies are restricted to a narrow strip of coastline along the Broyante coast."},
   {
-    "panel": 4,
-    "painting_style": "Gothic Horror",
-    "painting_instructions": "Create a dark and foreboding panel depicting the aftermath of Tar-Baphon's attack on Absalom. Use a palette of dark, muted colors and incorporate intricate patterns and textures to give the artwork a sense of unease and dread. The scene should be illuminated by a faint, flickering light that suggests the supernatural nature of the events, and include several prominent buildings and landmarks in the city, such as the Cathedral of the Archfey and the Tower of the Arcane Eye, in a state of ruin and decay. Incorporate several mythic creatures, such as the ghost and the specter, into the background of the panel to give the scene a sense of scope and scale.",
-    "caption": "The aftermath of Tar-Baphon's attack on Absalom",
-    "original_phrase": "The city of Absalom, its once-proud spires and to"}
+    "painting_instructions": "Create a stained glass-style artwork depicting a bustling marketplace in the Avistani colony. Use vibrant colors and intricate patterns to bring to life the various stalls and vendors, as well as the people bargaining and socializing. Incorporate elements of the Avistani culture, such as traditional clothing and symbols, to add authenticity to the scene. The lighting should be bright and lively, with a few shadows to add depth and dimension to the artwork.",
+    "caption": "Marketplace in the Colony"
+  ,"orignal_phrase":"This protocol stipulates that the Avistani colonies are restricted to a narrow strip of coastline along the Broyante coast."}
 ]
 ,[
   {
-    "panel": 1,
-    "painting_style": "Stained Glass",
-    "painting_instructions": "Use vibrant colors and intricate patterns to create a stained glass-style artwork depicting the Amerton, Zaporavo's ship, sailing through the open waters. Incorporate elements of the sea, such as waves and sea creatures, into the design. The artwork should convey a sense of adventure and discovery.",
-    "caption": "Sailing South",
-    "original_phrase": "Sailing into the unknown, Zaporavo's ship, the Amerton, cuts through the open waters."
-  },
+    "painting_instructions": "Create a stained glass-style artwork featuring a group of rebels huddled in a hidden underground bunker. Use vibrant colors and intricate patterns to convey a sense of hope and resilience. Include a few subtle details, such as a small window with a view of the outside world, a makeshift bed, and a few scattered books and tools.",
+    "caption": "Rebels in Hiding"
+  ,"orignal_phrase":"The colonies are regularly controlled by Segada's troops, and their exports are limited to 15% of their production."},
   {
-    "panel": 2,
-    "painting_style": "Medieval",
-    "painting_instructions": "Create a medieval-style artwork featuring Queen Abrogail Thrune II of Chéliax, dressed in regal attire, standing on a cliff overlooking the sea. Incorporate elements of the surrounding landscape, such as mountains and forests, into the design. The artwork should convey a sense of power and authority.",
-    "caption": "Meeting the Queen",
-    "original_phrase": "Queen Abrogail Thrune II of Chéliax stands on a cliff, surveying the sea and plotting her next move."
-  },
-  {
-    "panel": 3,
-    "painting_style": "Renaissance",
-    "painting_instructions": "Create a renaissance-style artwork depicting Zaporavo and the Queen standing together on the deck of the Amerton, surrounded by the crew and their weapons. Incorporate elements of the sea and the sky into the design. The artwork should convey a sense of camaraderie and cooperation.",
-    "caption": "United Front",
-    "original_phrase": "Zaporavo and Queen Abrogail Thrune II stand together on the deck of the Amerton, ready to face whatever challenges lie ahead."
-  },
-  {
-    "panel": 4,
-    "painting_style": "Gothic",
-    "painting_instructions": "Create a gothic-style artwork depicting the Colonial Crusaders of the Crown, Zaporavo's private army, marching towards the horizon. Incorporate elements of the surrounding landscape, such as castles and forests, into the design. The artwork should convey a sense of grandeur and ambition.",
-    "caption": "Marching South",
-    "original_phrase": "The Colonial Crusaders of the Crown march towards the horizon, ready to conquer the new lands."
-  }
+    "painting_instructions": "Create a stained glass-style artwork depicting a bustling marketplace in a Segada-controlled colony. Use bright colors and intricate patterns to convey a sense of energy and vitality. Include a variety of characters, such as merchants, traders, and soldiers, as well as a few subtle details, such as a Segada flag flying overhead and a group of protesters in the background.",
+    "caption": "Marketplace in a Segada Colony"
+  ,"orignal_phrase":"The colonies are regularly controlled by Segada's troops, and their exports are limited to 15% of their production."}
 ]
 ,[
   {
-    "panel": 1,
-    "painting_style": "Medieval Stained Glass",
-    "painting_instructions": "Create a vibrant and intricate design featuring the Crusaders of the Crown's emblem, a crowned lion, surrounded by interlocking circles and geometric patterns. Use a palette of warm, golden hues and add subtle texture to the glass to give it a sense of depth and dimensionality. The scene should be illuminated by a soft, golden light that evokes a sense of hope and optimism.",
-    "caption": "The Crusaders of the Crown establish their first outpost, Danton, and prepare for their quest for wealth.",
-    "original_phrase": "The Crusaders of the Crown's banner, a crowned lion, rises above their first outpost, Danton, as they ready themselves for their journey."
-  },
+    "painting_instructions": "Create a stained glass-style panel featuring a group of Arcadians gathered around a large, ornate door. The door is adorned with intricate patterns and symbols, and the Arcadians are dressed in vibrant, flowing robes. In the background, a dense forest can be seen, with tall trees stretching towards the sky. Use a mix of warm and cool colors to create a sense of depth and atmosphere.",
+    "caption": "The Arcadians gather at the entrance to the Avantinians' territory, their robes and patterns reflecting their cultural identity."
+  ,"orignal_phrase":"The Arcadians have an interdiction to enter the territory of the Avantinians."},
   {
-    "panel": 2,
-    "painting_style": "Gothic Stained Glass",
-    "painting_instructions": "Create a dramatic and intricate design featuring the Crusaders of the Crown's leader, a wise and powerful king, standing atop a rocky outcropping, surrounded by a swirling vortex of darkness. Use a palette of deep, rich colors and add subtle texture to the glass to give it a sense of movement and energy. The scene should be illuminated by a soft, blue-gray light that evokes a sense of mystery and foreboding.",
-    "caption": "The Crusaders of the Crown's leader, a wise and powerful king, surveys the land from atop a rocky outcropping, preparing for the challenges ahead.",
-    "original_phrase": "The Crusaders of the Crown's leader stands atop a rocky outcropping, gazing out at the land before them, his eyes filled with a sense of purpose and determination."
-  },
-  {
-    "panel": 3,
-    "painting_style": "Renaissance Stained Glass",
-    "painting_instructions": "Create a detailed and realistic design featuring the Crusaders of the Crown's soldiers, armed and armored, marching through a dense forest. Use a palette of muted, earthy tones and add subtle texture to the glass to give it a sense of depth and dimensionality. The scene should be illuminated by a soft, golden light that evokes a sense of warmth and camaraderie.",
-    "caption": "The Crusaders of the Crown's soldiers march through a dense forest, their armor and weapons gleaming in the soft, golden light.",
-    "original_phrase": "The Crusaders of the Crown's soldiers march through the dense forest, their armor and weapons at the ready, their faces set with determination and purpose."
-  },
-  {
-    "panel": 4,
-    "painting_style": "Art Nouveau Stained Glass",
-    "painting_instructions": "Create a flowing and organic design featuring the Crusaders of the Crown's leader, surrounded by a swirling, interlocking pattern of leaves and vines. Use a palette of soft, muted colors and add subtle texture to the glass to give it a sense of movement and fluidity. The scene should be illuminated by a soft, golden light that evokes a sense of harmony and balance.",
-    "caption": "The Crusaders of the Crown's leader stands surrounded by a swirling, interlocking pattern of leaves and vines, their face serene and at peace.",
-    "original_phrase": "The Crusaders of the Crown's leader stands surrounded by a swirling, interlocking pattern of leaves and vines, their face serene and at peace, as if basking in the warm, golden light of their destiny."
-  }
+    "painting_instructions": "Create a stained glass-style panel featuring a dramatic landscape with a large, stormy sky. In the foreground, a group of Avantinians are shown standing atop a rocky outcropping, looking out at the approaching storm. Their robes are dark and muted, and they are armed with weapons. In the background, a range of rugged mountains can be seen, with lightning illuminating the sky. Use a mix of bold, vibrant colors and muted tones to create a sense of tension and drama.",
+    "caption": "The Avantinians prepare to defend their territory against the Arcadians, their weapons and armor reflecting their determination."
+  ,"orignal_phrase":"The Arcadians have an interdiction to enter the territory of the Avantinians."}
 ]
 ,[
   {
-    "panel": 1,
-    "painting_style": "Stained Glass",
-    "painting_instructions": "Use vibrant colors and intricate patterns to depict the four ships ordered by the Colonial Crown Crusaders Company, with detailed sails and rigging. Incorporate stained glass techniques to create a sense of depth and dimensionality. Consider using a warm color palette to evoke a sense of excitement and adventure.",
-    "caption": "The Four Ships Set Sail",
-    "original_phrase": "The four ships of the Colonial Crown Crusaders Company, adorned with intricate designs and vibrant colors, set sail for the uncharted lands of Chéliax."
+    "painting_instructions": "Create a stained glass-inspired artwork featuring a group of carters dressed in vibrant, intricately patterned robes, standing in front of a massive, crumbling stone structure. Use bold, contrasting colors to highlight the characters and create a sense of depth and dimensionality. Incorporate intricate patterns and textures to give the artwork a sense of age and history. For the background, use a combination of warm and cool colors to create a sense of depth and atmosphere, with the warm colors dominating the foreground and the cool colors receding into the distance. Consider using references to stained glass artwork from the medieval period for inspiration.",
+    "caption": "The carters of Canorus stand vigil as their colony crumbles around them."
+  ,"orignal_phrase":"The Chill Colony of Canorus in CA 4714 is struck by disaster and abandoned."},
+  {
+    "painting_instructions": "Create a stained glass-inspired artwork depicting a vast, barren landscape with a small group of figures in the distance. Use a muted color palette to convey a sense of desolation and abandonment, with the figures standing out against the bleak backdrop. Incorporate intricate patterns and textures to give the artwork a sense of age and history. For the figures, use a combination of bold, vibrant colors and muted tones to create a sense of contrast and depth. Consider using references to medieval stained glass artwork for inspiration, particularly those depicting scenes of desolation and loss.",
+    "caption": "The remnants of Canorus lie in ruins, a testament to the disaster that struck the colony."
+  ,"orignal_phrase":"The Chill Colony of Canorus in CA 4714 is struck by disaster and abandoned."}
+]
+
+,[
+  {
+    "painting_instructions": "Create a stained glass-style panel featuring a group of carters, dressed in vibrant colors and intricate patterns, standing in front of a bustling marketplace. Include a mix of male and female characters, with different facial expressions and body language. Add a few exotic goods and objects in the background to give the scene depth and context. Use bold brushstrokes and vivid colors to create a sense of energy and movement.",
+    "caption": "The carters of Canorus gather in the marketplace, their vibrant colors and intricate patterns a testament to the city's rich cultural heritage."
+  ,"orignal_phrase":"Canorus was invaded by the Calignis and the Telgrodradt."},
+  {
+    "painting_instructions": "Create a stained glass-style panel depicting a dramatic battle scene between the invading Calignis and Telgrodradt forces. Use bold, sweeping brushstrokes to convey the chaos and destruction of the battlefield, with both sides clashing in a flurry of swords, arrows, and spells. Incorporate a few key characters, such as a determined Calignis warrior and a fearless Telgrodradt mage, to give the scene a sense of scale and importance. Use a muted color palette to create a sense of gloom and foreboding.",
+    "caption": "The Calignis and Telgrodradt clash on the battlefield, their weapons and spells flashing in the fading light of day."
+  ,"orignal_phrase":"Canorus was invaded by the Calignis and the Telgrodradt."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring a group of carters standing in front of a large, ornate door. The carters should be dressed in traditional clothing with intricate patterns and colors. The door should be adorned with symbols and markings that suggest the colony's history and culture. Use vibrant colors and intricate patterns to create a sense of depth and texture. Incorporate lighting effects to highlight the details of the artwork.",
+    "caption": "The carters stand guard in front of the entrance to the colony, their traditional clothing and symbols reflecting their pride in their heritage."
+  ,"orignal_phrase":"The colony was located above their underground tunnels."},
+  {
+    "painting_instructions": "Create a stained glass-style artwork depicting the interior of the colony. The artwork should feature a large, open space with high ceilings, illuminated by a series of large, colorful stained glass windows. The space should be filled with various objects and textures, such as crates, barrels, and machinery, that suggest the colony's industrial and technological advancements. Use vibrant colors and intricate patterns to create a sense of depth and texture. Incorporate lighting effects to highlight the details of the artwork.",
+    "caption": "The interior of the colony is a bustling hub of activity, with machinery and technology at every turn."
+  ,"orignal_phrase":"The colony was located above their underground tunnels."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring a group of adventurers in a dimly lit tunnel, surrounded by zombies. Use vibrant colors and intricate patterns to bring out the sense of danger and urgency. Include a few close-up details of the adventurers' faces and weapons to convey their determination and bravery. For the background, use a mix of dark blues and purples to create a sense of depth and mystery. Add some subtle texture to the tunnel walls to give it a rough, ancient feel.",
+    "caption": "The adventurers fight their way through the zombie-infested tunnels, determined to uncover the secrets of Canorus."
+  ,"orignal_phrase":"A band of adventurers from outside the colony came to Canorus, fought the swarms of zombies that infested the area and investigated the tunnels."},
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring a single adventurer standing atop a pile of zombie corpses, looking out over the ruined landscape of Canorus. Use a muted color palette to convey a sense of desolation and decay. Include a few subtle details, such as cracks in the ground and broken buildings, to give a sense of the devastation caused by the zombie outbreak. For the adventurer's face, use a determined expression to convey their resolve to uncover the truth behind the zombie plague.",
+    "caption": "The lone adventurer stands victorious over the zombie-infested ruins of Canorus, ready to uncover the secrets of the city's downfall."
+  ,"orignal_phrase":"A band of adventurers from outside the colony came to Canorus, fought the swarms of zombies that infested the area and investigated the tunnels."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring a dark, eerie forest with glowing mushrooms and twisted trees. Use vibrant colors and intricate patterns to bring the scene to life. Incorporate a full moon in the background, casting an eerie glow on the forest floor.",
+    "caption": "A lone survivor wanders through a haunted forest, the only light coming from the full moon above."
+  ,"orignal_phrase":"However, only one survived, and only long enough to speak of the Telgrodradt before she herself became a living dead."},
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring a haunted mansion with glowing windows and a crumbling facade. Use vibrant colors and intricate patterns to bring the scene to life. Incorporate a full moon in the background, casting an eerie glow on the mansion's facade.",
+    "caption": "A lone survivor approaches a haunted mansion, the only light coming from the full moon above."
+  ,"orignal_phrase":"However, only one survived, and only long enough to speak of the Telgrodradt before she herself became a living dead."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style panel featuring a group of villagers huddled together, dressed in warm, earthy tones, with a small child in the center holding a lantern. Include intricate patterns and vibrant colors to convey a sense of hope and resilience.",
+    "caption": "The villagers of Willowdale seek refuge in the newly established colony of Anchor's End, hoping to rebuild their lives and find safety in numbers."
+  ,"orignal_phrase":"The few surviving villagers moved south to the colony of Anchor's End."},
+  {
+    "painting_instructions": "Create a stained glass-style panel depicting the colony of Anchor's End, with a bustling market square filled with people of various ages and backgrounds. Incorporate a mix of modern and traditional architectural elements to convey a sense of balance between old and new. Use vibrant colors and intricate patterns to bring the scene to life.",
+    "caption": "In the colony of Anchor's End, the villagers of Willowdale find a new home and a chance to rebuild their lives, surrounded by the warmth and support of their new community."
+  ,"orignal_phrase":"The few surviving villagers moved south to the colony of Anchor's End."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style panel featuring a group of rebellious carters, dressed in tattered clothing and carrying makeshift weapons, standing defiantly in front of a burning city gate. Incorporate intricate patterns and vibrant colors to convey a sense of urgency and danger. Use bold brushstrokes and contrasting colors to highlight the main characters and create a sense of depth and dimensionality.",
+    "caption": "Rebel Carters Stand Against the Empire"
+  ,"orignal_phrase":"In 4715 CE, civil unrest in Cheliax prompted the Corbantine Empire to declare secession."},
+  {
+    "painting_instructions": "Create a second stained glass-style panel depicting a chaotic street scene in the midst of the civil unrest. Incorporate a mix of characters, including civilians, soldiers, and rebels, all struggling to navigate the treacherous terrain. Use vibrant colors and intricate patterns to convey a sense of confusion and disorder, while also highlighting the main elements of the scene. Incorporate relevant architectural details, such as crumbling buildings and collapsed statues, to further emphasize the sense of decay and collapse.",
+    "caption": "Chaos and Destruction Reign in the Streets"
+  ,"orignal_phrase":"In 4715 CE, civil unrest in Cheliax prompted the Corbantine Empire to declare secession."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style panel featuring a group of rebels huddled in a dimly lit alleyway. Use vibrant colors and intricate patterns to bring the scene to life. Focus on the main character, a young woman with a determined expression and a glowing symbol on her chest. In the background, depict a mob of angry townspeople, their faces twisted in rage and fear. Use a mix of warm and cool colors to create a sense of tension and unease.",
+    "caption": "Rebels in Isser, a town plagued by a similar uprising, huddle in a dark alleyway as they prepare to face the angry mob."
+  ,"orignal_phrase":"A similar uprising was crushed in Isser."},
+  {
+    "painting_instructions": "Create a stained glass-style panel featuring a dramatic battle scene. Use a mix of bright and muted colors to create a sense of intensity and chaos. Focus on the main character, a skilled warrior with a sword and shield, as they clash with a group of enemy soldiers. In the background, depict a cityscape with towers and buildings in flames. Use intricate patterns to add depth and texture to the artwork.",
+    "caption": "The warrior battles against a group of enemy soldiers in the streets of Isser, as the city burns in the background."
+  ,"orignal_phrase":"A similar uprising was crushed in Isser."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring a dark and ominous atmosphere. Use vibrant colors and intricate patterns to bring to life the characters and objects in the scene. Focus on the carters (s) and give a detailed description of each main character, including their style, position, cloth, and any objects they may be holding. If there are multiple characters, provide a global description of the mob or background. For the second panel, describe the scene and provide instructions on how to create the artwork, using the stained glass technique and vibrant colors to bring the scene to life.",
+    "caption": "Tar-Baphon leads an attack on Absalom, but the Scouting Society is ready to defend their home."
+  ,"orignal_phrase":"4719 CA Tar-Baphon is released from his prison and leads an attack on Absalom, which is repelled by the members of the Scouting Society."},
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring a dramatic and intense scene. Use bold colors and intricate patterns to convey the intensity of the battle. Focus on the scene and provide a detailed description of the environment, including the lighting, textures, and any objects or characters in the background. For the second panel, describe the scene and provide instructions on how to create the artwork, using the stained glass technique and vibrant colors to bring the scene to life.",
+    "caption": "The Scouting Society fights to defend Absalom against Tar-Baphon's attack."
+  ,"orignal_phrase":"4719 CA Tar-Baphon is released from his prison and leads an attack on Absalom, which is repelled by the members of the Scouting Society."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style panel featuring a dark, mystical forest with towering trees and twisted branches. Incorporate intricate patterns and vibrant colors to convey a sense of mystery and foreboding. Use a mix of warm and cool colors to create depth and contrast in the scene.",
+    "caption": "The forest looms dark and foreboding, its twisted branches reaching towards the sky like skeletal fingers."
+  ,"orignal_phrase":"The liche is currently seeking to gain power in order to become a god."},
+  {
+    "painting_instructions": "Create a stained glass-style panel featuring a grand, ornate throne room with intricate mosaics and gilded details. Use a palette of rich, jewel-toned colors to create a sense of opulence and power. Incorporate subtle, glowing light effects to suggest the presence of dark magic.",
+    "caption": "The throne room is a testament to the liche's power and ambition, its opulent decorations and gilded details reflecting the dark magic that sustains it."
+  ,"orignal_phrase":"The liche is currently seeking to gain power in order to become a god."}
+]
+
+,[
+  {
+    "painting_instructions": "Create a stained glass-style panel featuring the Amerton, Zaporavo's ship, in the foreground, with a vibrant sunset in the background. Include intricate patterns and colors to give the artwork a sense of depth and movement. Use a mix of warm and cool colors to create a sense of atmosphere and mood.",
+    "caption": "The Amerton returns to port after a successful expedition to the west."
+  ,"orignal_phrase":"4721 CA Zaporavo, an intrepid explorer, returns from an expedition to the west with his ship: the Amerton."},
+  {
+    "painting_instructions": "Create a stained glass-style panel featuring Zaporavo standing on the deck of the Amerton, looking out towards the horizon. Use a mix of bold and muted colors to create a sense of drama and tension. Include intricate patterns and textures to give the artwork a sense of depth and movement.",
+    "caption": "Zaporavo surveys the horizon, ready for the next adventure."
+  ,"orignal_phrase":"4721 CA Zaporavo, an intrepid explorer, returns from an expedition to the west with his ship: the Amerton."}
+]
+,[
+  {
+    "painting_instructions": "Use vibrant colors and intricate patterns to create a stained glass-style artwork depicting Queen Abrogail Thrune II of Chéliax sitting on her throne, surrounded by her loyal advisors and guards. Include a large, ornate window behind her, with a view of a bustling cityscape in the distance. Use a mix of warm and cool colors to create a sense of depth and atmosphere.",
+    "caption": "Queen Abrogail Thrune II of Chéliax sits on her throne, surrounded by her loyal advisors and guards, as she hears the news of the discovered islands filled with riches to the south of Anchor's End."
+  ,"orignal_phrase":"He meets Queen Abrogail Thrune II of Chéliax and tells her he has discovered islands filled with riches to the south of Anchor's End."},
+  {
+    "painting_instructions": "Create a stained glass-style artwork depicting a bustling cityscape in the distance, with a large, ornate window in the foreground. Use a mix of warm and cool colors to create a sense of depth and atmosphere. Include a few ships and boats in the distance, sailing towards the viewer. Use intricate patterns and designs to add texture and interest to the artwork.",
+    "caption": "The cityscape of Chéliax stretches out in the distance, as a few ships and boats sail towards the viewer, while a large, ornate window frames the scene in the foreground."
+  ,"orignal_phrase":"He meets Queen Abrogail Thrune II of Chéliax and tells her he has discovered islands filled with riches to the south of Anchor's End."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring a group of islanders gathered around a large, ancient tree. The tree's branches should be adorned with colorful, intricate patterns, and the islanders should be dressed in traditional clothing with vibrant colors and patterns. In the background, depict a calm sea with a few boats sailing in the distance. Use a warm color palette to create a cozy and welcoming atmosphere.",
+    "caption": "The islanders gather around the ancient tree, their laughter and chatter filling the air as they share stories and secrets."
+  ,"orignal_phrase":"These islands are not part of the Arcadian continent, therefore they are not subject to the Segada Protocol."},
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring a group of islanders working on a fishing boat. The boat should be adorned with sea creatures and other nautical elements, and the islanders should be dressed in practical, weathered clothing. In the background, depict a stormy sea with waves crashing against the shore. Use a cool color palette to create a sense of tension and danger.",
+    "caption": "The islanders work tirelessly on their fishing boat, their faces set with determination as they battle against the rough seas."
+  ,"orignal_phrase":"These islands are not part of the Arcadian continent, therefore they are not subject to the Segada Protocol."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring the main character, Zaporavo, standing on the deck of one of the four ships, the 'Crown Croisés', with the Queen's emblem emblazoned on the sail. Incorporate vibrant colors and intricate patterns to give the artwork a regal and majestic feel. Use reference images of stained glass windows to ensure consistency in style and format.",
+    "caption": "Zaporavo stands proudly on the deck of the 'Crown Croisés', his ship commissioned by the Queen herself."
+  ,"orignal_phrase":"Zaporavo founded the Colonial Company of the Crown Croisés with financial support from the Queen and commissioned four ships from the Corentyn shipyards."},
+  {
+    "painting_instructions": "Create a stained glass-style artwork depicting the bustling Corentyn shipyards where the four ships were built. Incorporate a mix of vibrant colors and muted tones to give the artwork a sense of energy and history. Use reference images of stained glass windows to ensure consistency in style and format.",
+    "caption": "The Corentyn shipyards bustle with activity as the four ships are built, their hulls adorned with the Crown Croisés emblem."
+  ,"orignal_phrase":"Zaporavo founded the Colonial Company of the Crown Croisés with financial support from the Queen and commissioned four ships from the Corentyn shipyards."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring the Queen and Zaporavo on the deck of a ship, with the Chéliax in the background. Use vibrant colors and intricate patterns to bring out the atmosphere of urgency and determination. Include waves and clouds in the background to convey the movement of the ship and the turmoil of the sea. For the Queen, use a regal and confident pose, with one hand on the ship's wheel and the other on Zaporavo's shoulder. For Zaporavo, use a determined expression and a hand on the ship's rail, as if guiding it through the waves. For the Chéliax, use a menacing and ominous presence in the background, with dark clouds and lightning illuminating their form. Include a subtle glow around the Queen and Zaporavo to represent their resolve and determination.",
+    "caption": "The Queen and Zaporavo set sail to outrun the Chéliax, determined to claim the new lands before they can."
+  ,"orignal_phrase":"The Queen, not wanting the Chéliax to arrive in second place during the conquest of these new lands, orders Zaporavo to set sail immediately."},
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring the Queen, Zaporavo, and the Chéliax in a dramatic and intense battle scene. Use vibrant colors and intricate patterns to bring out the intensity of the battle. For the Queen, use a regal and powerful pose, with one hand on the hilt of her sword and the other on Zaporavo's shoulder. For Zaporavo, use a determined and skilled warrior pose, with one hand on his sword and the other on the hilt of the Queen's sword. For the Chéliax, use a menacing and terrifying presence, with dark clouds and lightning illuminating their form. Include a subtle glow around the Queen and Zaporavo to represent their resolve and determination. Use dynamic and energetic brushstrokes to convey the movement and chaos of the battle.",
+    "caption": "The Queen and Zaporavo fight to defend the new lands against the Chéliax, their swords clashing in a fierce and intense battle."
+  ,"orignal_phrase":"The Queen, not wanting the Chéliax to arrive in second place during the conquest of these new lands, orders Zaporavo to set sail immediately."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring a bustling harbor with a large galley and a smaller frigate docked side by side. Incorporate vibrant colors and intricate patterns to give the scene a sense of movement and energy. Use bold brushstrokes and layered colors to create depth and texture. Add a few mercenaries and weapons in the background to give the scene a sense of scale and danger. ",
+    "caption": "The Chechen marine's fleet of ships and weapons, ready for battle."
+  ,"orignal_phrase":"The Chechen marine provides a galley and a frigate, as well as weapons and mercenaries of poor quality."},
+  {
+    "painting_instructions": "Create a stained glass-style artwork depicting a dramatic sea battle between the Chechen marine's ships and a larger, more powerful enemy fleet. Use bold colors and intricate patterns to create a sense of movement and energy. Incorporate lighting effects to highlight the action and create a sense of tension. Add a few details such as waves, sea spray, and explosions to give the scene a sense of realism. ",
+    "caption": "The Chechen marine's fleet fights for survival against a superior enemy."
+  ,"orignal_phrase":"The Chechen marine provides a galley and a frigate, as well as weapons and mercenaries of poor quality."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style artwork depicting the sea as a turbulent, angry ocean. Use vibrant colors and intricate patterns to convey the intensity of the scene. Include the Amerton, the Impie, and the Dague in the foreground, with the sea churning and foaming in the background.",
+    "caption": "Zaporavo reprimands the sea with the Amerton, the Impie, and the Dague."
+  ,"orignal_phrase":"Zaporavo reprimands the sea with the Amerton, the Impie (galley), and the Dague (frigate)."},
+  {
+    "painting_instructions": "Create a stained glass-style artwork depicting the sea as a vast, open expanse. Use muted colors and subtle patterns to convey the vastness of the scene. Include the Amerton, the Impie, and the Dague in the foreground, with the sea stretching out behind them.",
+    "caption": "The sea stretches out before the Amerton, the Impie, and the Dague."
+  ,"orignal_phrase":"Zaporavo reprimands the sea with the Amerton, the Impie (galley), and the Dague (frigate)."}
+],[
+
+  {
+    "painting_instructions": "Create a stained glass-inspired artwork featuring the Carteres, a group of skilled warriors tasked with protecting the advanced posts of Danton and Averland. Use vibrant colors and intricate patterns to bring to life the detailed descriptions of each character's style, position, cloth, and objects. If there are multiple characters, provide a detailed description of each main character. If they are in a mob or background, give a global description.",
+    "caption": "The Carteres, a group of skilled warriors, stand guard at the entrance of Danton, an advanced post founded in 1472 by the Croisés de la Couronne."
+  ,"orignal_phrase":"In 1472, the Croisés de la Couronne founded two advanced posts: Danton and Averland."
+
   },
   {
-    "panel": 2,
-    "painting_style": "Medieval Fantasy",
-    "painting_instructions": "Create a dramatic and atmospheric scene depicting Zaporavo's return with the Amerton, carrying slaves and riches. Use bold brushstrokes and vibrant colors to convey a sense of excitement and drama. Consider incorporating elements of medieval architecture and design to create a sense of historical authenticity.",
-    "caption": "Zaporavo's Triumphant Return",
-    "original_phrase": "Zaporavo returns with the Amerton, its sails billowing with the wind of victory, carrying with it the spoils of war and the fate of Chéliax."
-  },
-  {
-    "panel": 3,
-    "painting_style": "Gothic Horror",
-    "painting_instructions": "Create a dark and foreboding scene depicting the Queen's appointment of Zaporavo as general and her granting of full authority over the colonized lands. Use muted colors and dramatic lighting to create a sense of unease and tension. Consider incorporating elements of Gothic architecture and design to create a sense of eeriness and dread.",
-    "caption": "The Queen's Decree",
-    "original_phrase": "The Queen, surrounded by the dark and foreboding architecture of the palace, appoints Zaporavo as general and grants him full authority over the colonized lands, her eyes gleaming with a malevolent intent."
-  },
-  {
-    "panel": 4,
-    "painting_style": "Renaissance Realism",
-    "painting_instructions": "Depict Zaporavo taking possession of his new fleet, with detailed and realistic depictions of the ships and their crew. Use a muted color palette to create a sense of realism and historical accuracy. Consider incorporating elements of Renaissance design and architecture to create a sense of grandeur and majesty.",
-    "caption": "Zaporavo Takes Command",
-    "original_phrase": "Zaporavo, dressed in his finest uniform, takes command of his new fleet, his eyes gleaming with determination and ambition as he surveys his ships and their crew."
+    "painting_instructions": "Create a stained glass-inspired artwork depicting the bustling scene inside the walls of Averland. Use vibrant colors and intricate patterns to bring to life the various characters, objects, and textures in the scene. Include elements such as merchants, guards, and civilians going about their daily business. If possible, include a glimpse of the advanced technology and architecture of the post.",
+    "caption": "Inside the walls of Averland, merchants, guards, and civilians go about their daily business amidst the bustling scene."
+  ,"orignal_phrase":"In 1472, the Croisés de la Couronne founded two advanced posts: Danton and Averland."
+
   }
+]
+
+,[
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring a group of caravans gathered in a vast desert landscape. Include intricate patterns and vibrant colors to convey the heat and aridity of the environment. Focus on the main character, a rugged adventurer with a scarf covering their face, standing at the front of the group. Use bold brushstrokes and contrasting colors to highlight their figure. Incorporate a few subtle details, such as a water skin and a map, to suggest their journey. ",
+    "caption": "Caravans Fortify Their Positions Before Venturing Into the Land"
+  ,"orignal_phrase":"They fortify their positions before venturing into the land in search of wealth."},
+  {
+    "painting_instructions": "Create a stained glass-style artwork depicting a vast and mysterious land, with towering mountains and dense forests in the distance. Include a few subtle details, such as a river flowing through the landscape and a few exotic creatures lurking in the shadows. Focus on the main character, a young woman with a determined expression, standing at the edge of the frame. Use soft, blended colors to convey a sense of wonder and adventure. ",
+    "caption": "The Land Awaits: A New Journey Begins"
+  ,"orignal_phrase":"They fortify their positions before venturing into the land in search of wealth."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring the four ships, with vibrant colors and intricate patterns. Use a mix of geometric and organic shapes to create a sense of movement and energy. Incorporate elements of the colonial era, such as flags, banners, and architectural details, to set the scene. Pay particular attention to the lighting, using warm tones to create a sense of depth and atmosphere.",
+    "caption": "The four ships of the Crown Crusaders, ready to set sail on their mission to colonize the new world."
+  ,"orignal_phrase":"The four ships ordered by the colonial company of the Crown Crusaders are completed and ready to set sail."},
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring the scene of the ships sailing away from the shore, with the sun setting in the background. Use a palette of cool, muted colors to convey a sense of distance and isolation. Incorporate waves and sea creatures to add depth and movement to the artwork. Consider using a stylized, almost abstract representation of the ships to emphasize their smallness in the vastness of the ocean.",
+    "caption": "The ships of the Crown Crusaders sail away from the shore, as the sun sets on their mission to colonize the new world."
+  ,"orignal_phrase":"The four ships ordered by the colonial company of the Crown Crusaders are completed and ready to set sail."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style panel depicting Zaporavsky and his caravan of slaves and riches. Use vibrant colors and intricate patterns to bring the scene to life. Focus on the details of the characters and objects, such as the ornate clothing and jewelry, the rich fabrics, and the gleaming gold and silver. Incorporate elements of the desert landscape, such as sand dunes and palm trees, to create a sense of atmosphere and setting. Use lighting to highlight the main elements of the scene and create a sense of depth and dimensionality.",
+    "caption": "Zaporavsky returns with his caravan of slaves and riches, basking in the glory of his successful raid."
+  ,"orignal_phrase":"Zaporavsky returns with Amerton loaded with slaves and riches."},
+  {
+    "painting_instructions": "Create a stained glass-style panel depicting the scene from a different angle, focusing on the reactions of the people in the background. Use vibrant colors and intricate patterns to bring the scene to life. Show the people in the background reacting in shock, horror, or disbelief at the sight of Zaporavsky and his caravan. Incorporate elements of the desert landscape, such as sand dunes and palm trees, to create a sense of atmosphere and setting. Use lighting to highlight the main elements of the scene and create a sense of depth and dimensionality.",
+    "caption": "The people in the background react in shock and horror at the sight of Zaporavsky and his caravan."
+  ,"orignal_phrase":"Zaporavsky returns with Amerton loaded with slaves and riches."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring the Queen, General, and their subjects. Use vibrant colors and intricate patterns to bring the scene to life. Focus on the Queen's regal presence and General's commanding stance. Incorporate elements of the colonized lands, such as palm trees and exotic birds, to create a sense of far-off lands. Use lighting to create a sense of depth and atmosphere, with the Queen and General standing in the foreground and the subjects in the background. ",
+    "caption": "The Queen grants General full powers over the colonized lands, as the subjects look on in awe."
+  ,"orignal_phrase":"The Queen named General and gave him full powers over the colonized lands."},
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring the General and his subjects in a bustling marketplace. Use vibrant colors and intricate patterns to bring the scene to life. Focus on the General's commanding presence and the subjects' lively interactions. Incorporate elements of the colonized lands, such as spices and textiles, to create a sense of culture and trade. Use lighting to create a sense of depth and atmosphere, with the General and subjects standing in the foreground and the market stalls in the background. ",
+    "caption": "The General oversees the bustling marketplace, as the subjects go about their daily business."
+  ,"orignal_phrase":"The Queen named General and gave him full powers over the colonized lands."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring Zaporava standing on the deck of his new fleet, surrounded by his loyal crew. Intricate patterns and vibrant colors should be used to depict the scene. Consider using references to traditional stained glass artwork, such as the use of bold colors and geometric shapes, to create a sense of depth and dimensionality.",
+    "caption": "Zaporava stands proudly on the deck of his new fleet, surrounded by his loyal crew."
+  ,"orignal_phrase":"Zaporava takes possession of his new fleet."},
+  {
+    "painting_instructions": "Create a stained glass-style artwork depicting the fleet in the background, with Zaporava and his crew in the foreground. Use intricate patterns and vibrant colors to create a sense of movement and energy. Consider using references to traditional stained glass artwork, such as the use of bold colors and geometric shapes, to create a sense of depth and dimensionality.",
+    "caption": "The fleet moves forward, with Zaporava and his crew leading the way."
+  ,"orignal_phrase":"Zaporava takes possession of his new fleet."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring a group of carters gathered around a large map, with several ships in the background. Intricate patterns and vibrant colors should be used to depict the scene. The carters should be dressed in simple, earthy tones, with a few details such as tools or crests on their clothing to indicate their profession. The ships should be detailed and varied, with different colors and designs to represent different factions. Consider adding some subtle lighting effects to create depth and atmosphere in the scene.",
+    "caption": "Carters gather around a large map, planning the launch of a massive recruitment campaign across Cheliax to arm his ships."
+  ,"orignal_phrase":"He launches a large-scale recruitment campaign across the entire Cheliax to arm his ships."},
+  {
+    "painting_instructions": "Create a stained glass-style artwork depicting a bustling harbor filled with ships of various sizes and designs. Use intricate patterns and vibrant colors to create a sense of movement and energy in the scene. The ships should be detailed and varied, with different colors and designs to represent different factions. Consider adding some subtle lighting effects to create depth and atmosphere in the scene. The harbor should be filled with people going about their daily business, adding to the sense of activity and bustle in the scene.",
+    "caption": "A bustling harbor fills with ships of various sizes and designs as the recruitment campaign gains momentum."
+  ,"orignal_phrase":"He launches a large-scale recruitment campaign across the entire Cheliax to arm his ships."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring a group of diverse prisoners, dressed in simple clothing, standing in front of a large, ornate door. The door should be adorned with intricate carvings and patterns, and should be surrounded by a rich, golden frame. In the background, depict a vast, uncharted landscape with towering mountains and a bright, blue sky. Use vibrant colors and intricate patterns to bring the scene to life.",
+    "caption": "Freedom Awaits: The Released Prisoners Prepare to Set Sail"
+  ,"orignal_phrase":"On Queen's orders, the voluntary prisoners for colonizing these new lands are released and join the ships."},
+  {
+    "painting_instructions": "Create a stained glass-style artwork depicting a massive, ancient ship sailing through the vast, uncharted waters. The ship should be adorned with colorful sails and flags, and should be surrounded by a halo of light. In the background, depict a dramatic storm cloud, with lightning illuminating the dark sky. Use vibrant colors and intricate patterns to bring the scene to life.",
+    "caption": "The Journey Begins: The Ship Sails into the Unknown"
+  ,"orignal_phrase":"On Queen's orders, the voluntary prisoners for colonizing these new lands are released and join the ships."}
+]
+,[
+  {
+    "painting_instructions": "Create a stained glass-style artwork featuring a group of resistant individuals, including a young woman with a determined expression, a grizzled old man with a weapon, and a hooded figure in the background. Incorporate intricate patterns and vibrant colors to convey a sense of hope and resilience. Use references to historical resistance movements, such as the French Resistance or the African American Civil Rights Movement, to inspire the artwork's style and atmosphere.",
+    "caption": "The resistant ones embark on their mission as slaves, but their determination to fight for their freedom and justice is unwavering."
+  ,"orignal_phrase":"The resistant ones are embarked on forces as slaves.."},
+  {
+    "painting_instructions": "Create a stained glass-style artwork depicting a vast, barren landscape with a group of resistant individuals scattered throughout. Incorporate elements of desolation and hopelessness, such as crumbling buildings and overgrown vegetation, to convey the oppressive nature of their surroundings. Use references to dystopian science fiction, such as Blade Runner or The Handmaid's Tale, to inspire the artwork's style and atmosphere.",
+    "caption": "The resistant ones fight against their oppressors in a desolate and hopeless landscape, but their determination to resist is unbreakable."
+  ,"orignal_phrase":"The resistant ones are embarked on forces as slaves."}
 ]
 ]
